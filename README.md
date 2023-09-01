@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @1209198
 - 👀 I’m interested in ...web design, software development.
-- 🌱 I’m currently learning ... Artificial intelligence.
-- 💞️ I’m looking to collaborate on ... AI 
+- 🌱 I’m currently learning ... react frameworks.
+- 💞️ I’m looking to collaborate on ... software development 
 - 📫 How to reach me ... Twiter handle @MainaGeorgy
 
 <!---
