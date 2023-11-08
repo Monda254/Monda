@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @George Gichobi (Monda)
+- 👋 Hi, I’m @Georgy Gichobi (Monda)
 - 👀 I’m interested in ...web design, software development.
-- 🌱 I’m currently learning ... react frameworks.
+- 🌱 I’m skillfull in ... react frameworks and tailwind css.
 - 💞️ I’m looking to collaborate on ... software development 
 - 📫 How to reach me ... elvisgee735@gmail.com
 
