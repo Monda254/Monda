@@ -1,7 +1,21 @@
 - 👋 Hi, I’m @Georgy Gichobi (Monda)
 - 👀 I’m interested in ...web design, software development.
 - 🌱 I’m skillfull in ... react frameworks and tailwind css.
-- 💞️ I’m looking to collaborate on ... software development 
+- 💞️ I’m looking to collaborate on ... software development and web development
+- # Skills
+
+- **Programming Languages:**
+  - JavaScript
+  - HTML
+  - CSS
+
+- **Web Development:**
+  - React
+  - tailwind css
+
+- **Tools:**
+  - VSCode
+
 - 📫 How to reach me ... elvisgee735@gmail.com
 
 <!---
